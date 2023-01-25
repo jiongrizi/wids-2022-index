@@ -1,0 +1,46 @@
+{
+    
+    "A":[
+        { "code":"A1", "name":"Anonymous Proxy"},
+        { "code":"AD", "name":"Andorra"},
+        { "code":"AE", "name":"United Arab Emirates"},
+        { "code":"AF", "name":"Afghanistan"},
+        { "code":"AG", "name":"Antigua and Barbuda"},
+        { "code":"AI", "name":"Anguilla"},
+        { "code":"AL", "name":"Albania"},
+        { "code":"AM", "name":"Armenia"},
+        { "code":"AO", "name":"Angola"},
+        { "code":"AP", "name":"Asia/Pacific Region"},
+        { "code":"AQ", "name":"Antarctica"},
+        { "code":"AR", "name":"Argentina"},
+        { "code":"AS", "name":"American Samoa"},
+        { "code":"AT", "name":"Austria"},
+        { "code":"AU", "name":"Australia"},
+        { "code":"AW", "name":"Aruba"},
+        { "code":"AX", "name":"Aland Islands"},
+        { "code":"AZ", "name":"Azerbaijan"}
+    ],
+    "B":[
+        { "code":"BA", "name":"Bosnia and Herzegovina"},
+        { "code":"BB", "name":"Barbados"},
+        { "code":"BD", "name":"Bangladesh"},
+        { "code":"BE", "name":"Belgium"},
+        { "code":"BF", "name":"Burkina Faso"},
+        { "code":"BG", "name":"Bulgaria"},
+        { "code":"BH", "name":"Bahrain"},
+        { "code":"BI", "name":"Burundi"},
+        { "code":"BJ", "name":"Benin"},
+        { "code":"BL", "name":"Saint Barthelemy"},
+        { "code":"BM", "name":"Bermuda"},
+        { "code":"BN", "name":"Brunei Darussalam"},
+        { "code":"BO", "name":"Bolivia"},
+        { "code":"BQ", "name":"Bonaire, Saint Eustatius and Saba"},
+        { "code":"BR", "name":"Brazil"},
+        { "code":"BS", "name":"Bahamas"},
+        { "code":"BT", "name":"Bhutan"},
+        { "code":"BV", "name":"Bouvet Island"},
+        { "code":"BW", "name":"Botswana"},
+        { "code":"BY", "name":"Belarus"},
+        { "code":"BZ", "name":"Belize"}
+    ]
+}
